@@ -10,7 +10,7 @@ return [
     ],
     'manitoba' => [
         'country_rate' => ['gst' => '5'],
-        'state_rate' => ['pst' => '8'],
+        'state_rate' => ['pst' => '7'],
     ],
     'new_brunswick' => [
         'state_rate' => ['hst' => '15'],
