@@ -1,47 +1,47 @@
 <?php
 
 return [
-    'alberta' => [
+    'ab' => [
         'state_rate' => ['gst' => '5'],
     ],
-    'british_columbia' => [
+    'bc' => [
         'country_rate' => ['gst' => '5'],
         'state_rate' => ['pst' => '7'],
     ],
-    'manitoba' => [
+    'mb' => [
         'country_rate' => ['gst' => '5'],
         'state_rate' => ['pst' => '7'],
     ],
-    'new_brunswick' => [
+    'nb' => [
         'state_rate' => ['hst' => '15'],
     ],
-    'newfoundland_and_labrador' => [
+    'nfl' => [
         'state_rate' => ['hst' => '15'],
     ],
-    'northwest_territories' => [
+    'nt' => [
         'state_rate' => ['gst' => '5'],
     ],
-    'nova_scotia' => [
+    'ns' => [
         'state_rate' => ['hst' => '15'],
     ],
-    'nunavut' => [
+    'nvt' => [
         'state_rate' => ['gst' => '5'],
     ],
-    'ontario' => [
+    'on' => [
         'state_rate' => ['hst' => '13'],
     ],
-    'prince_edward_island' => [
+    'pei' => [
         'state_rate' => ['hst' => '15'],
     ],
-    'quebec' => [
+    'qc' => [
         'country_rate' => ['gst' => '5'],
         'state_rate' => ['qst' => '9.975'],
     ],
-    'saskatchewan' => [
+    'sk' => [
         'country_rate' => ['gst' => '5'],
         'state_rate' => ['pst' => '6'],
     ],
-    'yukon' => [
+    'yk' => [
         'state_rate' => ['gst' => '5'],
     ],
 ];
